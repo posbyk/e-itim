@@ -1,2 +1,2 @@
-# e-itim
+# egitim
 git workshop
